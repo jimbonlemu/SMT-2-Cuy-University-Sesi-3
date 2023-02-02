@@ -130,7 +130,7 @@ a {
 }
 
 .parallax{
-    background-image: url('assets/photo/2.png');
+    background-image: url('assets/photo/astanaka.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -204,6 +204,7 @@ footer{
     }
     .card-item{
         width: 100%;
+        opacity: 0.9;
     }
 
     .container{
