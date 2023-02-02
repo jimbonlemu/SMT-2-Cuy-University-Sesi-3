@@ -1,3 +1,3 @@
 ﻿# SMT-2-Cuy-University-Sesi-3
 
-https://SMT-2-Cuy-University-Sesi-3.jimbonlemu.repl.co
+https://smt-2-cuy-university-sesi-3.vercel.app/
